@@ -4,7 +4,7 @@ I have macbook 11.7, I have problem that I cannot add permission of Microphone, 
 
 New app should show up here but I don't
 
-These 2 little app help to fix this.
+These 2 little app, tccplus or wrapper both help to fix this.
 
 Check youtube how to use it.
 
